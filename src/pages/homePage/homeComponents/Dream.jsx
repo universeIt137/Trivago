@@ -1,4 +1,4 @@
-import  React from 'react';
+import React from 'react';
 
 const Dream = () => {
     return (
@@ -10,12 +10,12 @@ const Dream = () => {
             <div className='ml-24'>
                 <p className='text-2xl text-pink-300'>We Are The Best For You</p>
                 <p className='text-6xl'>Unlock Your Dream <br />
-                Destination</p>
-                <p className='text-xl mt-6'>We Are Dedicated To Making Your Journey Of <br /> Descovery Truly Unforgatteble.Our Team Of Passionate<br/>Travel Exparts Is Hero To Assist You In Finding The<br/> Destination Of Your Dream</p>
-            </div>
-            <div>
-                <p className='text-lg'>4k+</p>
-                <p></p>
+                    Destination</p>
+                <p className='text-xl mt-6'>We Are Dedicated To Making Your Journey Of <br /> Descovery Truly Unforgatteble.Our Team Of Passionate<br />Travel Exparts Is Hero To Assist You In Finding The<br /> Destination Of Your Dream</p>
+                <div className='border border-collapse w-28'>
+                    <p className='text-lg text-center'>4k+</p>
+                    <p>Satisfit Coustomers</p>
+                </div>
             </div>
         </div>
     );
