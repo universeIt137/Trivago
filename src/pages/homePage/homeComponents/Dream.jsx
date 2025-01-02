@@ -1,4 +1,4 @@
-import  React from 'react';
+import React from 'react';
 
 const Dream = () => {
     return (
@@ -10,12 +10,28 @@ const Dream = () => {
             <div className='ml-24'>
                 <p className='text-2xl text-pink-300'>We Are The Best For You</p>
                 <p className='text-6xl'>Unlock Your Dream <br />
-                Destination</p>
-                <p className='text-xl mt-6'>We Are Dedicated To Making Your Journey Of <br /> Descovery Truly Unforgatteble.Our Team Of Passionate<br/>Travel Exparts Is Hero To Assist You In Finding The<br/> Destination Of Your Dream</p>
-            </div>
-            <div>
-                <p className='text-lg'>4k+</p>
-                <p></p>
+                    Destination</p>
+                <p className='text-xl mt-6'>We Are Dedicated To Making Your Journey Of <br /> Descovery Truly Unforgatteble.Our Team Of Passionate<br />Travel Exparts Is Hero To Assist You In Finding The<br /> Destination Of Your Dream</p>
+                <div className='flex gap-8'>
+                    <div className='border border-collapse w-[120px] h-[80px] rounded-xl mt-6'>
+                        <p className='text-3xl text-center mt-6'>4k+</p>
+                        <p className='text-center text-sm mt-2'>Satisfit Coustomers</p>
+                    </div>
+                    <div className='border border-collapse w-[130px] h-20 rounded-xl mt-6'>
+                        <p className='text-lg text-center mt-2'>1000+</p>
+                        <p className='text-center'>Global Destination</p>
+                    </div>
+                </div>
+                <div>
+                    <div className='border border-collapse w-[130px] h-20 rounded-xl mt-6'>
+                        <p className='text-lg text-center mt-2'>24/7</p>
+                        <p className='text-center'>Coustomer Support</p>
+                    </div>
+                    <div className='border border-collapse w-[130px] h-20 rounded-xl mt-6'>
+                        <p className='text-lg text-center mt-2'>100%</p>
+                        <p className='text-center'>Dedication</p>
+                    </div>
+                </div>
             </div>
 
         </div>
