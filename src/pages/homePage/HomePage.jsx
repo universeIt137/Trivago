@@ -5,6 +5,8 @@ import Destination from './homeComponents/Destination';
 import Dream from './homeComponents/Dream';
 import Experience from './homeComponents/Experience';
 import TopDestination from './homeComponents/TopDestination';
+import TourGuide from './homeComponents/TourGuide';
+import NewsLetter from './homeComponents/NewsLetter';
 
 const HomePage = () => {
     return (
@@ -15,7 +17,8 @@ const HomePage = () => {
             <Dream/>
             <TopDestination/>
             <Experience/>
-            
+            <TourGuide/>
+            <NewsLetter/>
             
             
         </div>
