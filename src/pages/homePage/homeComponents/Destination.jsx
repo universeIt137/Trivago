@@ -8,7 +8,14 @@ const Destination = () => {
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-10 '>
                     <div className='rounded-lg '>
                         <img className='rounded-[40px] shadow-lg ' src="https://res.cloudinary.com/dntcuf8u3/image/upload/v1735624339/Trivago/ecoptyoaia64q1fsjost.png" alt="" />
-                        <p >Cappadocia</p>
+                        <p className='text-black text-xl'>Tokyo</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non rerum voluptatum impedit sint necessitatibus fuga.</p>
+
+                    </div>
+                    <div>
+                        <div>
+                            <p></p>
+                        </div>
                     </div>
                     <div>
                         <img className='rounded-[40px] shadow-lg' src="https://res.cloudinary.com/dntcuf8u3/image/upload/v1735624339/Trivago/olyuocfddhautd5d3ece.png" alt="" />

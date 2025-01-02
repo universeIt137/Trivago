@@ -11,6 +11,8 @@ const HomePage = () => {
             <Service/>
             <Destination/>
             <Dream/>
+            
+            
         </div>
     );
 };
