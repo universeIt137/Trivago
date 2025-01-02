@@ -3,6 +3,8 @@ import Banner from './homeComponents/Banner';
 import Service from './homeComponents/Service';
 import Destination from './homeComponents/Destination';
 import Dream from './homeComponents/Dream';
+import Experience from './homeComponents/Experience';
+import TopDestination from './homeComponents/TopDestination';
 
 const HomePage = () => {
     return (
@@ -11,6 +13,8 @@ const HomePage = () => {
             <Service/>
             <Destination/>
             <Dream/>
+            <TopDestination/>
+            <Experience/>
             
             
             
