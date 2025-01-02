@@ -1,5 +1,5 @@
 import React from 'react';
-const Destination = () => {
+const TopDestination = () => {
     return (
         <div>
             <section className='container mx-auto w-10/12 mb-20'>
