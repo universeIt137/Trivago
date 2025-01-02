@@ -6,26 +6,11 @@ const Destination = () => {
       
         <div>
             <section className='container mx-auto w-10/12 mb-20'>
-              <nav>
-                <div>
-                    <div className='flex justify-between'>
-                        <h1>TOP DESTINATION</h1>
-                        <br/>
-                        <p>Explore top destination</p>
-                    </div>
-                    <ul>
-                        <li>City</li>
-                        <li>Mountain</li>
-                        <li>Forest</li>
-                        <li>Island</li>
-                    </ul>
-                </div>
-              </nav>
                 <div className='text-pink-600'>WHAT WE SERVE</div>
                 <div className='grid grid-cols-1 lg:grid-cols-3 gap-10 '>
                     <div className=' rounded-lg '>
                         <img className='rounded-[40px] shadow-lg ' src="https://res.cloudinary.com/dntcuf8u3/image/upload/v1735624339/Trivago/ecoptyoaia64q1fsjost.png" alt="" />
-                        <div className='bg-transparent border border-black'>
+                        <div className='bg-transparent'>
                         <p className=' text-black text-xl'>Capaadocia</p>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non rerum voluptatum impedit sint necessitatibus fuga.</p>
 
